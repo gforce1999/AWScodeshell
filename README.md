@@ -6,3 +6,5 @@ This repo has files for demostrating a CI/CD pipeline using the AWS cloud shell.
 - create a virtualenv:  python3 -m venv ~/.awscloudshell
 - source it source ~/.awscloudshell/bin/activate
 
+### Link to video demo
+https://youtu.be/lGeUlQR9XYY
